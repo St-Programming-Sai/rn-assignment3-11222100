@@ -6,10 +6,7 @@ export default function FrameOne() {
           style={{
               width:"354px",
               height:"52px",
-              // borderWidth: 1, 
-              borderColor: 'black', 
-              marginTop:50,
-              marginHorizontal:20,
+              marginTop:20,
               display:"flex",
               justifyContent:"space-between",
               flexDirection:"row"}}>
@@ -29,7 +26,7 @@ export default function FrameOne() {
                 alignItems:"center",
                 borderRadius:50
               }}>
-                <Image source={require('../assets/download.png')} />
+                <Image source={require('../assets/person.png')} />
               </View>
             </View>
         </View>   

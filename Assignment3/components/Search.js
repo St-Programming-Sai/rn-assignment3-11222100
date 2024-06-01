@@ -31,7 +31,7 @@ export default function Search() {
                          }}>
                             <Image source={require('../assets/Vector.jpg')} style={{marginLeft:20}}/>
                             <TextInput placeholder="Search" placeholderTextColor="black" style={{
-                                padding:10,
+                                padding:12,
                                 width:"100%"
                             }}/>
                         </View>
