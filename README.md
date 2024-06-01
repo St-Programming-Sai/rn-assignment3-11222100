@@ -12,9 +12,8 @@
 
 ### Screenshot
 
-<div align="center" margin="20">
+<div align="center">
     <img src="./Screenshot.png"/>
 </div>
 
 
-<!-- ![](./Screenshot.png) -->
