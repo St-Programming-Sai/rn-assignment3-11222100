@@ -28,7 +28,7 @@ jobs:
           mkdir -p ${{ github.workspace }}/snapshots  # Ensure the directory exists before SnapMock
 
       - name: Run SnapMock
-        uses: Programming-Sai/SnapMock@main
+        uses: Programming-Sai/SnapMock@v1
         with:
           url: "https://betterstack.com/"
           devices: "mobile"
